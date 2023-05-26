@@ -17,6 +17,8 @@ These parameters are obtained by calling the [askForSecrets](https://learn.micro
 
 The function validates the user token and user id using the SASToken Custom Binding and injects the validated user object.
 
+![External API](media/external-api.jpg)
+
 ## Deployin the API
 
 - Change the directory to *api*
